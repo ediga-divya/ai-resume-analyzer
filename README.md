@@ -13,7 +13,7 @@ AI Resume Analyzer is a Python and Streamlit application that evaluates resume t
 * Interactive Streamlit user interface
 * Real-time feedback and recommendations
 
-## AI Resume Analyzer Screenshot
+## Application Preview
 
 ![AI Resume Analyzer Screenshot](screenshot.png.png)
 
