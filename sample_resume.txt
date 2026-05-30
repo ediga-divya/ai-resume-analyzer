@@ -1,0 +1,10 @@
+Divya Ediga
+Software Engineer | AI Infrastructure & Data Systems
+
+Skills: Python, SQL, AWS, ETL Pipelines, Data Modeling, REST APIs, Cloud Computing, Machine Learning, Data Processing, Tableau, Power BI.
+
+Experience:
+Built scalable data pipelines using Python and SQL.
+Optimized data processing workflows and automated analytics reporting.
+Worked with AWS cloud services including S3, EC2, DynamoDB, and Redshift.
+Developed dashboards and backend data solutions for business insights.
