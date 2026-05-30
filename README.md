@@ -15,7 +15,7 @@ AI Resume Analyzer is a Python and Streamlit application that evaluates resume t
 
 ## Application Preview
 
-(Screenshot 2026-05-30 150349.png)
+Screenshot 2026-05-30 150349.png
 
 ## Tech Stack
 
